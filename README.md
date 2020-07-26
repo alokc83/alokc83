@@ -7,6 +7,9 @@
 <br>
 ### My Open Source work
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=MASegmentedControl)](https://github.com/alokc83/MASegmentedControl)
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**MASegmentedControl**](https://github.com/alokc83/MASegmentedControl) | [![GitHub issues](https://img.shields.io/github/issues/alokc83/MASegmentedControl?color=green&logo=github&style=flat)](https://github.com/alokc83/MASegmentedControl/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/alokc83/MASegmentedControl?style=flat&logo=github)](https://github.com/alokc83/MASegmentedControl/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/alokc83/MASegmentedControl?style=flat&color=critical&logo=github)](https://github.com/alokc83/MASegmentedControl/pulls?q=is%3Apr+is%3Aclosed)  |
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
