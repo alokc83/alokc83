@@ -8,6 +8,7 @@
 ### Be Social 
 [![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
 [![Linkedin: Alok Choudhary](https://img.shields.io/badge/-AlokChoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alok-choudhary-628baa127)](www.linkedin.com/in/alok-choudhary-628baa127)
+[![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/alokc83)
 <!--
 **alokc83/alokc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
