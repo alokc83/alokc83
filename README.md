@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokc83&count_private=true&show_icons=true&theme=dark)](https://github.com/alokc83/alokc83)
+<br>
+### My Open Source work
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=MASegmentedControl)](https://github.com/alokc83/MASegmentedControl)
 <!--
 **alokc83/alokc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
