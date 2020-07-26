@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hello Visitor 👋
 
 [![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokc83&count_private=true&show_icons=true&theme=dark)](https://github.com/alokc83/alokc83)
 <br>
 ### My Open Source work
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=MASegmentedControl)](https://github.com/alokc83/MASegmentedControl)
+
+### Be Social 
+[![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
+[![Linkedin: Alok Choudhary](https://img.shields.io/badge/-AlokChoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alok-choudhary-628baa127)](www.linkedin.com/in/alok-choudhary-628baa127)
 <!--
 **alokc83/alokc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
