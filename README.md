@@ -5,6 +5,13 @@
 ### My Open Source work
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=MASegmentedControl)](https://github.com/alokc83/MASegmentedControl)
 
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 ### Be Social 
 [![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
 [![Linkedin: Alok Choudhary](https://img.shields.io/badge/-AlokChoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alok-choudhary-628baa127)](www.linkedin.com/in/alok-choudhary-628baa127)
