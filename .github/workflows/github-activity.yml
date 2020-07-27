@@ -1,9 +1,4 @@
 jobs:
-  on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-
   publish:
     runs-on: ubuntu-latest
     steps:
