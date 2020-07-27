@@ -1,4 +1,9 @@
 jobs:
+  on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
   publish:
     runs-on: ubuntu-latest
     steps:
@@ -9,7 +14,7 @@ jobs:
     - name: Create README.md
       uses: actions-js/profile-readme@master
       with:
-        username: <your username>
+        username: alokc83
         github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit & Push changes
       uses: actions-js/push@master
