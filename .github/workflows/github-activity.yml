@@ -1,24 +1,17 @@
-name: 'Profile Readme'
-description: 'Collection of widgets for your profile README'
-author: "actions-js"
-inputs:
-  github_token:
-    description: 'Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}'
-    required: true
-  username:
-    description: 'alokc83'
-    required: true
-  template:
-    description: 'TEMPLATE.md file path'
-    required: true
-    default: './TEMPLATE.md'
-  readme:
-    description: 'README.md output file path'
-    required: true
-    default: './README.md'
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
-branding:
-  icon: 'star'
-  color: 'yellow'
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Create README.md
+      uses: actions-js/profile-readme@master
+      with:
+        username: <your username>
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
