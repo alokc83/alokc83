@@ -1,7 +1,10 @@
-### Hello Visitor 👋
+### Hello Visitor 👋 
 <code><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></code>
 [![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokc83&count_private=true&show_icons=true&theme=dark)](https://github.com/alokc83/alokc83)
 <br>
+[More Details](./details.md) 
+<br> 
+
 ### Publications 
 [![Medium](https://github.com/alokc83/alokc83/blob/master/images/medium.svg)](https://medium.com/@alok.ch83)
 <br>
@@ -41,3 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>[![Visits Badge](https://badges.pufler.dev/visits/alokc83/alokc83)]() 
