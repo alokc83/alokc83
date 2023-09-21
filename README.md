@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 -->
 
 <br>
-![](https://komarev.com/ghpvc/?username=alokc83&style=flat-square&base=7056)
+![](https://komarev.com/ghpvc/?username=alokc83&style=flat-square)
