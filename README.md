@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>[![Visits Badge](https://badges.pufler.dev/visits/alokc83/alokc83)]() 
+<br>
+![](https://komarev.com/ghpvc/?username=alokc83&style=flat-square&base=7056)
