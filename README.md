@@ -4,6 +4,9 @@
 <br>
 [More Details](./details.md) 
 <br> 
+<a href="">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokc83&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 
 ### Publications 
 [![Medium](https://github.com/alokc83/alokc83/blob/master/images/medium.svg)](https://medium.com/@alok.ch83)
