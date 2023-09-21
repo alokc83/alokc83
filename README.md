@@ -1,5 +1,8 @@
+
+<img src="https://komarev.com/ghpvc/?username=alokc83&label=Profile%20views&color=0e75b6&style=plastic" alt="alokc83" /> 
+
 ### Hello Visitor 👋 
-<code><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></code>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></img>
 [![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokc83&count_private=true&show_icons=true&theme=dark)](https://github.com/alokc83/alokc83)
 <br>
 [More Details](./details.md) 
