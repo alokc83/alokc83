@@ -30,5 +30,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/alokc83)
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=alokc83&label=Profile%20views&color=0e75b6&style=plastic&base=7056" alt="alokc83" /> 
+	<img src="https://komarev.com/ghpvc/?username=alokc83&label=Profile%20views&color=0e75b6&style=plastic" alt="alokc83" /> 
 </p>
