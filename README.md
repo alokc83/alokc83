@@ -3,9 +3,7 @@
 
 ### Hello Visitor 👋 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></img>
-[![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokc83&count_private=true&show_icons=true&theme=dark)](https://github.com/alokc83/alokc83)
-<br>
-[More Details](./details.md) 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alokc83&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 <br> 
 <a href="">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokc83&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
