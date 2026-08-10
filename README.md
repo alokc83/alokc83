@@ -28,7 +28,7 @@
 - **Principal-level iOS** — architecture, shipping, and mentoring across product teams
 - **Companies that ship** — Peerspace, Shipwell, Experian, Silvercar, AT&T, Carnegie Learning
 - **Open source that sticks** — UIKit controls, iOS samples, and tooling others actually use
-- **Teacher as well as builder** — LinkedIn Learning courses + Medium deep-dives on Swift & Git
+- **Keeps leveling up** — LinkedIn Learning + Medium writing on Swift & Git
 - **Multi-platform Apple** — iPhone, iPad, macOS, Watch; SwiftUI, Combine, Core Data, payments
 
 ---
@@ -78,7 +78,9 @@ Highlighted pieces:
 
 ---
 
-### Courses (LinkedIn Learning)
+### Staying current
+
+Courses I take on LinkedIn Learning to keep my craft sharp:
 
 - Swift 5 Essential Training
 - Learning Combine with Swift
