@@ -35,20 +35,6 @@
 
 ### Featured work
 
-<a href="https://github.com/alokc83/iOS-Example-Collections">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=iOS-Example-Collections&theme=transparent&hide_border=true" alt="iOS-Example-Collections" />
-</a>
-<a href="https://github.com/alokc83/MASegmentedControl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=MASegmentedControl&theme=transparent&hide_border=true" alt="MASegmentedControl" />
-</a>
-<br/>
-<a href="https://github.com/alokc83/APRESS-Books-Source-Code-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=APRESS-Books-Source-Code-&theme=transparent&hide_border=true" alt="APRESS-Books-Source-Code" />
-</a>
-<a href="https://github.com/alokc83/Xcode-build-and-version-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alokc83&repo=Xcode-build-and-version-generator&theme=transparent&hide_border=true" alt="Xcode-build-and-version-generator" />
-</a>
-
 | Project | What it is |
 |---------|------------|
 | [**MASegmentedControl**](https://github.com/alokc83/MASegmentedControl) | Fully customizable segmented control in Swift |
