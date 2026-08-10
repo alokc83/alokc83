@@ -10,7 +10,7 @@
 
 <p align="center">
   I build clean, reliable, scalable iOS apps in <strong>Swift</strong> &amp; <strong>SwiftUI</strong>.<br/>
-  15+ years shipping software · 10+ years deep in Apple platforms (iPhone, iPad, Mac, Watch).
+  18+ years shipping software · 14+ years deep in Apple platforms (iPhone, iPad, Mac, Watch).
 </p>
 
 <p align="center">
