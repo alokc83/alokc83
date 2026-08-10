@@ -2,8 +2,9 @@ name: Update README feeds
 
 on:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Daily at 11:00 PM America/Chicago during CDT (UTC-5) → 04:00 UTC.
+    # During CST (UTC-6) this is 10:00 PM local; GitHub cron is UTC-only.
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 jobs:
