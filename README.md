@@ -71,6 +71,11 @@ Highlighted pieces:
 - More on [Medium @alok.ch83](https://medium.com/@alok.ch83)
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift Generics](https://medium.com/@alok.ch83/swift-generics-6181062f5603?source=rss-5eeca981a778------2)
+- [How to check whether a module is available using canImport&lpar;&rpar;](https://medium.com/@alok.ch83/how-to-check-whether-a-module-is-available-using-canimport-110a6e70fe44?source=rss-5eeca981a778------2)
+- [GIT &lpar;Chapter 1: Introduction&rpar;](https://medium.com/@alok.ch83/git-chapter-1-introduction-d3352eb5c1e?source=rss-5eeca981a778------2)
+- [Always Try, Try?, And Try!, Never give up](https://medium.com/@alok.ch83/always-try-try-and-try-never-give-up-9ef8b00082f?source=rss-5eeca981a778------2)
+- [Understanding more about MVVM](https://medium.com/@alok.ch83/understanding-more-about-mvvm-29f5673286d0?source=rss-5eeca981a778------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
