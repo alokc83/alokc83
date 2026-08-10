@@ -27,6 +27,7 @@
 ### Why follow
 
 - **Principal-level iOS** — architecture, shipping, and mentoring across product teams
+- **AI tooling** — ships [AI Coach](https://github.com/alokc83/ai-coach-releases), a macOS desktop app on Microsoft’s AI Engineering Coach
 - **Companies that ship** — Peerspace, Shipwell, Experian, Silvercar, AT&T, Carnegie Learning
 - **Open source that sticks** — UIKit controls, iOS samples, and tooling others actually use
 - **Keeps leveling up** — LinkedIn Learning, Medium writing, and [Worth Knowing TV](https://www.youtube.com/@worthknowingtv) on YouTube
@@ -34,10 +35,25 @@
 
 ---
 
+### AI highlight
+
+**[AI Coach](https://github.com/alokc83/ai-coach-releases)** — macOS desktop app wrapping [Microsoft’s AI Engineering Coach](https://github.com/microsoft/AI-Engineering-Coach).
+
+- Track practice scores, weekly trends, and daily activity
+- Detect anti-patterns across prompt quality, session hygiene, code review, and tool mastery
+- Measure AI-generated code output by language, workspace, model, and harness
+- Discover repeated prompts and turn them into reusable skills
+- Score context health with agentic readiness and workspace context maps
+
+→ [Releases & downloads](https://github.com/alokc83/ai-coach-releases)
+
+---
+
 ### Featured work
 
 | Project | What it is |
 |---------|------------|
+| [**AI Coach**](https://github.com/alokc83/ai-coach-releases) | macOS app for Microsoft’s AI Engineering Coach — progress, anti-patterns, skills |
 | [**MASegmentedControl**](https://github.com/alokc83/MASegmentedControl) | Fully customizable segmented control in Swift |
 | [**iOS-Example-Collections**](https://github.com/alokc83/iOS-Example-Collections) | Curated iOS sample collection |
 | [**APRESS-Books-Source-Code-**](https://github.com/alokc83/APRESS-Books-Source-Code-) | Apress iOS book source code archive |
