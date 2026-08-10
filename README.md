@@ -83,7 +83,14 @@ Highlighted pieces:
 
 Latest from [YouTube @worthknowingtv](https://www.youtube.com/@worthknowingtv) — auto-updated via RSS:
 
-<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/tK5UAvWCd18"><img width="160px" src="https://i.ytimg.com/vi/tK5UAvWCd18/mqdefault.jpg" alt="US Govt stake in AI? #ai #ainews"/></a></td>
+<td><a href="https://www.youtube.com/shorts/tK5UAvWCd18">US Govt stake in AI? #ai #ainews</a><br/>Jul 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/dl95bfhLgCk"><img width="160px" src="https://i.ytimg.com/vi/dl95bfhLgCk/mqdefault.jpg" alt="How AI would release would be changed? Should that be a case? #ai #news"/></a></td>
+<td><a href="https://www.youtube.com/shorts/dl95bfhLgCk">How AI would release would be changed? Should that be a case? #ai #news</a><br/>Jul 15, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/oTdyYN6YhcA"><img width="160px" src="https://i.ytimg.com/vi/oTdyYN6YhcA/mqdefault.jpg" alt="Anthropic accuses Alibaba.  #ai # news #shorts"/></a></td>
+<td><a href="https://www.youtube.com/shorts/oTdyYN6YhcA">Anthropic accuses Alibaba.  #ai # news #shorts</a><br/>Jul 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/yjIXcdBae5A"><img width="160px" src="https://i.ytimg.com/vi/yjIXcdBae5A/mqdefault.jpg" alt="#openai new model GPT 5.6 Sol #ai #ainews"/></a></td>
+<td><a href="https://www.youtube.com/shorts/yjIXcdBae5A">#openai new model GPT 5.6 Sol #ai #ainews</a><br/>Jul 5, 2026</td></tr></table>
 <!-- YOUTUBE-LIST:END -->
 
 ---
