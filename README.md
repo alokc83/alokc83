@@ -24,14 +24,15 @@
 
 ---
 
-### Why follow
+### How I can help
 
-- **Principal-level iOS** — architecture, shipping, and mentoring across product teams
-- **AI tooling** — ships [AI Coach](https://github.com/alokc83/ai-coach-releases), a macOS desktop app on Microsoft’s AI Engineering Coach
-- **Companies that ship** — Peerspace, Shipwell, Experian, Silvercar, AT&T, Carnegie Learning
-- **Open source that sticks** — UIKit controls, iOS samples, and tooling others actually use
-- **Keeps leveling up** — LinkedIn Learning, Medium writing, and [Worth Knowing TV](https://www.youtube.com/@worthknowingtv) on YouTube
-- **Multi-platform Apple** — iPhone, iPad, macOS, Watch; SwiftUI, Combine, Core Data, payments
+If you’re building on Apple platforms — or learning how AI fits into real engineering work — here’s what you’ll find here:
+
+- **Ship better iOS apps** — architecture, SwiftUI, and hard-won lessons from years of product work
+- **Level up with AI as a craft** — try [AI Coach](https://github.com/alokc83/ai-coach-releases) to practice prompts, spot anti-patterns, and improve agent workflows
+- **Reuse what already works** — open-source controls, samples, and small tools you can drop into your own projects
+- **Learn in public with me** — [Medium](https://medium.com/@alok.ch83) write-ups and [Worth Knowing TV](https://www.youtube.com/@worthknowingtv) for practical walkthroughs
+- **Go multi-platform when you’re ready** — iPhone, iPad, Mac, and Watch patterns that travel with you
 
 ---
 
