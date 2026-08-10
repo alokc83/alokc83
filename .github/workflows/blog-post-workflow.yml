@@ -10,6 +10,8 @@ jobs:
   update-readme-feeds:
     name: Update README with Medium posts and YouTube videos
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -20,12 +22,18 @@ jobs:
           max_post_count: "5"
           comment_tag_name: "BLOG-POST-LIST"
 
-      - name: Latest Worth Knowing TV videos
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Sync after Medium commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin master
+
+      - name: Latest Worth Knowing TV (long-form + Shorts)
+        run: python3 .github/scripts/update_youtube_readme.py
+
+      - name: Commit YouTube README updates
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfz9mdRrU1xabf44sstW8Cg"
-          max_post_count: "4"
-          comment_tag_name: "YOUTUBE-LIST"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="160px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title"/></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          commit_message: "Update Worth Knowing TV long-form and Shorts"
+          file_pattern: README.md
+          branch: master
