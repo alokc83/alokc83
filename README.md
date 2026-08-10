@@ -17,6 +17,7 @@
   <a href="https://alokc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-alokc.netlify.app-0A66C2?style=flat-square" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/alok-choudhary-628baa127/"><img src="https://img.shields.io/badge/LinkedIn-Alok%20Choudhary-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@alok.ch83"><img src="https://img.shields.io/badge/Medium-@alok.ch83-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/@worthknowingtv"><img src="https://img.shields.io/badge/YouTube-Worth%20Knowing%20TV-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://twitter.com/alokc83"><img src="https://img.shields.io/twitter/follow/alokc83?style=social" alt="Twitter"/></a>
   <a href="https://github.com/alokc83"><img src="https://img.shields.io/github/followers/alokc83?label=Follow&style=social" alt="GitHub followers"/></a>
 </p>
@@ -28,7 +29,7 @@
 - **Principal-level iOS** — architecture, shipping, and mentoring across product teams
 - **Companies that ship** — Peerspace, Shipwell, Experian, Silvercar, AT&T, Carnegie Learning
 - **Open source that sticks** — UIKit controls, iOS samples, and tooling others actually use
-- **Keeps leveling up** — LinkedIn Learning + Medium writing on Swift & Git
+- **Keeps leveling up** — LinkedIn Learning, Medium writing, and [Worth Knowing TV](https://www.youtube.com/@worthknowingtv) on YouTube
 - **Multi-platform Apple** — iPhone, iPad, macOS, Watch; SwiftUI, Combine, Core Data, payments
 
 ---
@@ -78,6 +79,15 @@ Highlighted pieces:
 
 ---
 
+### Worth Knowing TV
+
+Latest from [YouTube @worthknowingtv](https://www.youtube.com/@worthknowingtv) — auto-updated via RSS:
+
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
+---
+
 ### Staying current
 
 Courses I take on LinkedIn Learning to keep my craft sharp:
@@ -112,5 +122,6 @@ Follow for **iOS / SwiftUI architecture, shipping notes, and open source**.
   <a href="https://www.linkedin.com/in/alok-choudhary-628baa127/">LinkedIn</a> ·
   <a href="https://alokc.netlify.app/">Portfolio</a> ·
   <a href="https://medium.com/@alok.ch83">Medium</a> ·
+  <a href="https://www.youtube.com/@worthknowingtv">YouTube</a> ·
   <a href="https://twitter.com/alokc83">Twitter</a>
 </p>
