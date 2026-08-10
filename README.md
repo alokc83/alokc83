@@ -155,7 +155,7 @@ Courses I take on LinkedIn Learning to keep my craft sharp:
 
 ### Let's connect
 
-Follow for **iOS / SwiftUI architecture, shipping notes, and open source**.
+Happy to connect if you’re shipping Apple apps, exploring AI workflows, or just want practical notes from the road.
 
 <p align="center">
   <a href="https://github.com/alokc83">GitHub</a> ·
