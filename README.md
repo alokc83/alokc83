@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Alok Choudhary</h1>
-<p align="center"><strong>Principal iOS Developer</strong> · Architect &amp; Owner @ <a href="https://github.com/alokc83">Mt. Aden LLC</a> · Austin, TX</p>
+<p align="center"><strong>Principal iOS Developer</strong> · Architect &amp; Owner @ <a href="https://github.com/alokc83">Mt. Aden LLC</a></p>
 
 <p align="center">
   I build clean, reliable, scalable iOS apps in <strong>Swift</strong> &amp; <strong>SwiftUI</strong>.<br/>
