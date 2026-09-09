@@ -103,14 +103,14 @@ Latest from [YouTube @worthknowingtv](https://www.youtube.com/@worthknowingtv) â
 #### Long-form
 
 <!-- YOUTUBE-LONG:START -->
+<table><tr><td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4"><img width="180px" src="https://i.ytimg.com/vi/fY4DOY-8Ia4/mqdefault.jpg" alt="Garmin Cirqa Unboxing &amp; First Impressions: A WHOOP Alternative?"/></a></td>
+<td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4">Garmin Cirqa Unboxing &amp; First Impressions: A WHOOP Alternative?</a><br/>Sep 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hNPK3ctcNTE"><img width="180px" src="https://i.ytimg.com/vi/hNPK3ctcNTE/mqdefault.jpg" alt="How to use code review graph: Episode 4:  Use Blast Radius"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=hNPK3ctcNTE">How to use code review graph: Episode 4:  Use Blast Radius</a><br/>Jun 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oLoSp1upa34"><img width="180px" src="https://i.ytimg.com/vi/oLoSp1upa34/mqdefault.jpg" alt="How to use Code Review Graph EP3: Stop Asking AI for Shallow Code Reviews"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=oLoSp1upa34">How to use Code Review Graph EP3: Stop Asking AI for Shallow Code Reviews</a><br/>Jun 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yR2lwuVgVnA"><img width="180px" src="https://i.ytimg.com/vi/yR2lwuVgVnA/mqdefault.jpg" alt="How to use GitHub Copilot CLI Natively Inside Xcode 27"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=yR2lwuVgVnA">How to use GitHub Copilot CLI Natively Inside Xcode 27</a><br/>Jun 13, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vBJn10RS0q8"><img width="180px" src="https://i.ytimg.com/vi/vBJn10RS0q8/mqdefault.jpg" alt="CRG Series Episode 2: Smarter AI Setup"/></a></td>
-<td><a href="https://www.youtube.com/watch?v=vBJn10RS0q8">CRG Series Episode 2: Smarter AI Setup</a><br/>Jun 6, 2026</td></tr></table>
 <!-- YOUTUBE-LONG:END -->
 
 #### Shorts
