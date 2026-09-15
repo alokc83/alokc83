@@ -103,14 +103,14 @@ Latest from [YouTube @worthknowingtv](https://www.youtube.com/@worthknowingtv) â
 #### Long-form
 
 <!-- YOUTUBE-LONG:START -->
+<table><tr><td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo"><img width="180px" src="https://i.ytimg.com/vi/_uJtvqF20Mo/mqdefault.jpg" alt="Pebble Time 2 Unboxing: The Smartwatch That Came Back"/></a></td>
+<td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo">Pebble Time 2 Unboxing: The Smartwatch That Came Back</a><br/>Sep 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4"><img width="180px" src="https://i.ytimg.com/vi/fY4DOY-8Ia4/mqdefault.jpg" alt="Garmin Cirqa First Look: Fitness Tracking Without a Subscription"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4">Garmin Cirqa First Look: Fitness Tracking Without a Subscription</a><br/>Sep 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hNPK3ctcNTE"><img width="180px" src="https://i.ytimg.com/vi/hNPK3ctcNTE/mqdefault.jpg" alt="How to use code review graph: Episode 4:  Use Blast Radius"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=hNPK3ctcNTE">How to use code review graph: Episode 4:  Use Blast Radius</a><br/>Jun 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oLoSp1upa34"><img width="180px" src="https://i.ytimg.com/vi/oLoSp1upa34/mqdefault.jpg" alt="How to use Code Review Graph EP3: Stop Asking AI for Shallow Code Reviews"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=oLoSp1upa34">How to use Code Review Graph EP3: Stop Asking AI for Shallow Code Reviews</a><br/>Jun 15, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yR2lwuVgVnA"><img width="180px" src="https://i.ytimg.com/vi/yR2lwuVgVnA/mqdefault.jpg" alt="How to use GitHub Copilot CLI Natively Inside Xcode 27"/></a></td>
-<td><a href="https://www.youtube.com/watch?v=yR2lwuVgVnA">How to use GitHub Copilot CLI Natively Inside Xcode 27</a><br/>Jun 13, 2026</td></tr></table>
 <!-- YOUTUBE-LONG:END -->
 
 #### Shorts
