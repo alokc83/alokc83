@@ -103,8 +103,8 @@ Latest from [YouTube @worthknowingtv](https://www.youtube.com/@worthknowingtv) �
 #### Long-form
 
 <!-- YOUTUBE-LONG:START -->
-<table><tr><td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo"><img width="180px" src="https://i.ytimg.com/vi/_uJtvqF20Mo/mqdefault.jpg" alt="Pebble Time 2 Unboxing: The Smartwatch That Came Back"/></a></td>
-<td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo">Pebble Time 2 Unboxing: The Smartwatch That Came Back</a><br/>Sep 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo"><img width="180px" src="https://i.ytimg.com/vi/_uJtvqF20Mo/mqdefault.jpg" alt="I Backed Pebble in 2012. Now I’m Unboxing Pebble Time 2"/></a></td>
+<td><a href="https://www.youtube.com/watch?v=_uJtvqF20Mo">I Backed Pebble in 2012. Now I’m Unboxing Pebble Time 2</a><br/>Sep 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4"><img width="180px" src="https://i.ytimg.com/vi/fY4DOY-8Ia4/mqdefault.jpg" alt="Garmin Cirqa First Look: Fitness Tracking Without a Subscription"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=fY4DOY-8Ia4">Garmin Cirqa First Look: Fitness Tracking Without a Subscription</a><br/>Sep 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hNPK3ctcNTE"><img width="180px" src="https://i.ytimg.com/vi/hNPK3ctcNTE/mqdefault.jpg" alt="How to use code review graph: Episode 4:  Use Blast Radius"/></a></td>
